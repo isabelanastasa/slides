@@ -1,0 +1,13 @@
+/**
+ * isa theme for reveal.js 
+ *
+ */
+
+.reveal {
+  font-family: Roboto, Helvetica, sans-serif;
+}  
+
+.reveal h1 {
+    font-family: inherit;
+    text-transform: initial;
+}
