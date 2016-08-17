@@ -7,7 +7,13 @@
   font-family: Roboto, Helvetica, sans-serif;
 }  
 
-.reveal h1 {
+.reveal h1,
+.reveal h2,
+.reveal h3 {
     font-family: inherit;
     text-transform: initial;
+}
+
+.reveal .isn-small {
+    font-size: 80%;
 }
